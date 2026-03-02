@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJ2GV3f+WqE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\whitn\\onedrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\api\\src\\API\\EnterpriseServiceRequest.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\whitn\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\whitn\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
