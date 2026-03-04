@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bsJ36ulr8PM=",
+  "dgSpecHash": "DkiiD53dVB4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\api\\src\\api\\EnterpriseServiceRequest.API.csproj",
+  "projectFilePath": "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\API\\src\\api\\EnterpriseServiceRequest.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\whitn\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\whitn\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

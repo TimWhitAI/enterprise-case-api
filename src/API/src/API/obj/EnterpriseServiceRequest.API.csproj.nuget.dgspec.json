@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\api\\src\\api\\EnterpriseServiceRequest.API.csproj": {}
+    "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\API\\src\\api\\EnterpriseServiceRequest.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\api\\src\\api\\EnterpriseServiceRequest.API.csproj": {
+    "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\API\\src\\api\\EnterpriseServiceRequest.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\api\\src\\api\\EnterpriseServiceRequest.API.csproj",
+        "projectUniqueName": "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\API\\src\\api\\EnterpriseServiceRequest.API.csproj",
         "projectName": "EnterpriseServiceRequest.API",
-        "projectPath": "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\api\\src\\api\\EnterpriseServiceRequest.API.csproj",
+        "projectPath": "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\API\\src\\api\\EnterpriseServiceRequest.API.csproj",
         "packagesPath": "C:\\Users\\whitn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\api\\src\\api\\obj\\",
+        "outputPath": "C:\\Users\\whitn\\OneDrive\\Documents\\Development\\Repos\\enterprise-service-request-api\\src\\API\\src\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\whitn\\AppData\\Roaming\\NuGet\\NuGet.Config"
