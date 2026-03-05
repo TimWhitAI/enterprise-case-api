@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using EnterpriseServiceRequest.API.Domain.Entities;
 public class AppDbContext : DbContext
 {
     public AppDbContext(DbContextOptions<AppDbContext> options)

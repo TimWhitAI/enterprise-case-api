@@ -1,11 +1,7 @@
-namespace EnterpriseServiceRequest.API.Domain.Entities
+namespace EnterpriseServiceRequest.API.Domain.Entities;
+
+public abstract class BaseEntity
 {
-    public abstract class BaseEntity
-    {
-        public int Id { get; set; }
-
-        public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
-
-        public DateTime? UpdatedDate { get; set; }
-    }
+    public Guid Id { get; set; }
+    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 }
