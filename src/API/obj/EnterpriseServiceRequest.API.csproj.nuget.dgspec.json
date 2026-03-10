@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\whitn\\OneDrive\\documents\\development\\repos\\enterprise-service-request-api\\src\\api\\EnterpriseServiceRequest.API.csproj": {}
+    "C:\\Users\\whitn\\OneDrive\\documents\\development\\repos\\enterprise-service-request-api\\src\\API\\EnterpriseServiceRequest.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\whitn\\OneDrive\\documents\\development\\repos\\enterprise-service-request-api\\src\\api\\EnterpriseServiceRequest.API.csproj": {
+    "C:\\Users\\whitn\\OneDrive\\documents\\development\\repos\\enterprise-service-request-api\\src\\API\\EnterpriseServiceRequest.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\whitn\\OneDrive\\documents\\development\\repos\\enterprise-service-request-api\\src\\api\\EnterpriseServiceRequest.API.csproj",
+        "projectUniqueName": "C:\\Users\\whitn\\OneDrive\\documents\\development\\repos\\enterprise-service-request-api\\src\\API\\EnterpriseServiceRequest.API.csproj",
         "projectName": "EnterpriseServiceRequest.API",
-        "projectPath": "C:\\Users\\whitn\\OneDrive\\documents\\development\\repos\\enterprise-service-request-api\\src\\api\\EnterpriseServiceRequest.API.csproj",
+        "projectPath": "C:\\Users\\whitn\\OneDrive\\documents\\development\\repos\\enterprise-service-request-api\\src\\API\\EnterpriseServiceRequest.API.csproj",
         "packagesPath": "C:\\Users\\whitn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\whitn\\OneDrive\\documents\\development\\repos\\enterprise-service-request-api\\src\\api\\obj\\",
+        "outputPath": "C:\\Users\\whitn\\OneDrive\\documents\\development\\repos\\enterprise-service-request-api\\src\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\whitn\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -69,6 +69,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.4, )"
             }
           },
           "imports": [

@@ -1,0 +1,9 @@
+C:\Users\whitn\OneDrive\Documents\Development\Repos\enterprise-service-request-api\src\enterprisecaseapi\obj\Debug\net10.0\EnterpriseCaseAPI.csproj.AssemblyReference.cache
+C:\Users\whitn\OneDrive\Documents\Development\Repos\enterprise-service-request-api\src\enterprisecaseapi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\whitn\OneDrive\Documents\Development\Repos\enterprise-service-request-api\src\enterprisecaseapi\obj\Debug\net10.0\EnterpriseCaseAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whitn\OneDrive\Documents\Development\Repos\enterprise-service-request-api\src\enterprisecaseapi\obj\Debug\net10.0\EnterpriseCaseAPI.AssemblyInfoInputs.cache
+C:\Users\whitn\OneDrive\Documents\Development\Repos\enterprise-service-request-api\src\enterprisecaseapi\obj\Debug\net10.0\EnterpriseCaseAPI.AssemblyInfo.cs
+C:\Users\whitn\OneDrive\Documents\Development\Repos\enterprise-service-request-api\src\enterprisecaseapi\obj\Debug\net10.0\EnterpriseCaseAPI.csproj.CoreCompileInputs.cache
+C:\Users\whitn\OneDrive\Documents\Development\Repos\enterprise-service-request-api\src\enterprisecaseapi\obj\Debug\net10.0\EnterpriseCaseAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\whitn\OneDrive\Documents\Development\Repos\enterprise-service-request-api\src\enterprisecaseapi\obj\Debug\net10.0\EnterpriseCaseAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\whitn\OneDrive\Documents\Development\Repos\enterprise-service-request-api\src\enterprisecaseapi\obj\Debug\net10.0\EnterpriseCaseAPI.sourcelink.json

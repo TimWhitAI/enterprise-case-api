@@ -3,4 +3,7 @@
   <Folder Name="/src/API/">
     <Project Path="src/API/EnterpriseServiceRequest.API.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/EnterpriseCaseAPI.Tests.csproj" />
+  </Folder>
 </Solution>
